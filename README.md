@@ -115,7 +115,7 @@ This heat map provided some insight to help make correlations in the data set.  
 ### Word Cloud for Data Scientist:
 ![alt text](https://github.com/natvalenz/DS_Jobs_PROJECT/blob/master/Picture32.png)
 
-###Frequency of Top 20 Words in Data Scientist Job Description: 
+### Frequency of Top 20 Words in Data Scientist Job Description: 
 ![alt text](https://github.com/natvalenz/DS_Jobs_PROJECT/blob/master/Picture33.png)
 
 From the word cloud and the bar graph above, the words team, model, and statistic appear most frequently in the data scientist job descriptions implying that data scientists work on teams to model statistics.  Other terms appearing frequently illustrate tools used by data scientists (python, r, sql, software, ai, algorithm, mathematics) and skills necessary for success (collaborate, leadership, analytical, research). 
@@ -133,7 +133,7 @@ Minnesota, Wisconsin, Missouri, Tennessee, West Virginia, Vermont, Alabama, and 
 Some states that have surprisingly higher minimum salaries include:  New Mexico, Nevada, North Dakota, Wisconsin, and West Virginia.  Maine has a very low minimum salary.  Other states with relatively low minimum salaries are Florida, Utah, Louisiana, and Indiana. 
 
 ### Salary Minimums and Job Count by City 
-![alt text](https://github.com/natvalenz/DS_Jobs_PROJECT/blob/master/Picture34.png)
+![alt text](https://github.com/natvalenz/DS_Jobs_PROJECT/blob/master/Picture34.jpg)
 
 Minimum Salary by City and Job Count (Color represents minimum salary times 1000, and size of bubble represents number of jobs in that location.) 
 
